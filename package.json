@@ -1,6 +1,6 @@
 {
   "name": "mpds-navtabs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "dependencies": {
@@ -28,7 +28,7 @@
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
     "react-bootstrap": "^1.4.3",
-    "react-responsive-carousel": "^3.2.11",
+    "react-responsive-carousel": "^3.2.11"
   },
   "files": [
     "dist"

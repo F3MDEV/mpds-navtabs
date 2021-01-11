@@ -25,7 +25,7 @@ export interface NavTabsProps {
   /**
       * Tabs indicator Color
       */
-  tabsIndicatorColor?:  'secondary' | 'primary' | string
+  tabsIndicatorColor?:  'secondary' | 'primary' | undefined
   /**
       * Disable the back button
       */
